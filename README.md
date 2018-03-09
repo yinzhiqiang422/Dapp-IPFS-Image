@@ -1,8 +1,6 @@
 # Dapp-IPFS-Image
 基于IPFS去中心化相册以太坊Dapp  
 
-Block DEV Blog 区块链开发博客: http://jiangfuyao.com  
-
 >注意: 使用该 github 克隆到本地, 需要 执行 `$ npm install` 安装依赖 node_modules
 
 ## 安装IPFS
@@ -367,6 +365,7 @@ header{
 ***************************
 
 
+### Block DEV Blog 区块链开发博客: http://jiangfuyao.com  
 
 >***日后随着 学习打怪的不断深入，会解锁其他的高级教程。***  
 
